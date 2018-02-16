@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/laxmikadariya/Documents/coding/C++/gts_challenge_lax/main.cpp
+iostream
+-
+fstream
+-
+string
+-
+vector
+-
+utils.h
+/Users/laxmikadariya/Documents/coding/C++/gts_challenge_lax/utils.h
+packet.h
+/Users/laxmikadariya/Documents/coding/C++/gts_challenge_lax/packet.h
+bitset
+-
+
+/Users/laxmikadariya/Documents/coding/C++/gts_challenge_lax/packet.h
+
+/Users/laxmikadariya/Documents/coding/C++/gts_challenge_lax/utils.h
+string
+-
+packet.h
+/Users/laxmikadariya/Documents/coding/C++/gts_challenge_lax/packet.h
+
