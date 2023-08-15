@@ -19,7 +19,7 @@ public class testing {
         int result;
 
         Scanner scan = new Scanner(System.in);
-        System.out.print("Please enter a dollar and cent amount (e.g., 123.45): ");
+        System.out.print("Please enter a dollar pradeep and cent amount (e.g., 123.45): ");
 //        String S = scan.next();
         amt = scan.nextDouble();
 
